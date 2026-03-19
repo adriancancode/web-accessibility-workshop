@@ -1,0 +1,78 @@
+.app {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #b3b3b3;
+  min-height: 100vh;
+  padding: 24px;
+  line-height: 1.4;
+}
+
+.nav-links {
+  margin-bottom: 24px;
+}
+
+.nav-links a {
+  margin-right: 12px;
+}
+
+.fake-button {
+  display: inline-block;
+  padding: 10px 16px;
+  background: #dddddd;
+  cursor: pointer;
+  margin-bottom: 12px;
+}
+
+.menu-box {
+  border: 1px solid #ccc;
+  padding: 12px;
+  margin-bottom: 24px;
+}
+
+.section {
+  margin-bottom: 32px;
+}
+
+.featured-image {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 8px;
+}
+
+.icon-button {
+  font-size: 24px;
+  padding: 8px 12px;
+  margin-right: 12px;
+}
+
+.form-group {
+  margin-bottom: 16px;
+}
+
+.text-input {
+  padding: 8px;
+  width: 280px;
+}
+
+.schedule-table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 500px;
+}
+
+.newsletter-input {
+  padding: 8px;
+}
+
+.newsletter-button {
+  margin-left: 8px;
+  padding: 8px 12px;
+}
+
+.custom-control {
+  display: inline-block;
+  padding: 10px 14px;
+  background: #efefef;
+  cursor: pointer;
+  border: 1px solid #ccc;
+}
